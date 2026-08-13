@@ -4,5 +4,4 @@ public class Exemplo {
         Funcionario funcionario2 = new Funcionario("Maria", "Analista", 6000.0);
     }
 
-    
 }
